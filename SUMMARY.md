@@ -1,7 +1,9 @@
 # Table of contents
 
-* [React](README.md)
-* [Untitled](untitled.md)
+* [Overview](README.md)
+* [Technologies](untitled-1/README.md)
+  * [WPF](untitled-1/wpf.md)
+  * [Untitled](untitled-1/untitled.md)
 
 ## Operations
 
@@ -13,6 +15,7 @@
 * [Dependency Injection](design-patterns/dependency-injection.md)
 * [Design Patterns](design-patterns/mvvm-wpf/README.md)
   * [MVVM WPF](design-patterns/mvvm-wpf/mvvm-wpf.md)
+  * [book](design-patterns/mvvm-wpf/book.md)
 * [Command Pattern](design-patterns/command-pattern.md)
 
 ## Questions
