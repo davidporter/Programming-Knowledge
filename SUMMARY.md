@@ -12,13 +12,13 @@
 
 ## Design Patterns
 
-* [Dependency Injection](design-patterns/dependency-injection.md)
 * [Design Patterns](design-patterns/mvvm-wpf/README.md)
   * [MVVM WPF](design-patterns/mvvm-wpf/mvvm-wpf.md)
-  * [book](design-patterns/mvvm-wpf/book.md)
-* [Command Pattern](design-patterns/command-pattern.md)
+  * [Dependency Injection](design-patterns/mvvm-wpf/dependency-injection.md)
+  * [Command Pattern](design-patterns/mvvm-wpf/command-pattern.md)
 
 ## Questions
 
 * [Coding](questions/coding.md)
+* [View](questions/view.md)
 
