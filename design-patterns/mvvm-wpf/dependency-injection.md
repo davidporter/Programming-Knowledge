@@ -1,5 +1,9 @@
 # Dependency Injection
 
+[https://dev.to/azure/dependency-injection-in-javascript-101-2b1e](https://dev.to/azure/dependency-injection-in-javascript-101-2b1e) 
+
+![](../../.gitbook/assets/image.png)
+
 Dependency Injection is...
 
 Dependency Inversion...
