@@ -9,6 +9,8 @@
 
 * [Learning plan](operations/learning-plan.md)
 * [Resources](operations/resources.md)
+* [Marketing Plan](operations/marketing-plan.md)
+* [Untitled](operations/untitled.md)
 
 ## Design Patterns
 
