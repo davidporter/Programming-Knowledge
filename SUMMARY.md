@@ -12,8 +12,10 @@
   * [MVVM WPF](mvvm-wpf/mvvm-wpf.md)
   * [Dependency Injection](mvvm-wpf/dependency-injection.md)
   * [Command Pattern](mvvm-wpf/command-pattern.md)
-* [Coding Questions](coding.md)
-* [Interview Questions](view.md)
 * [People](people.md)
 * [Glossary](untitled.md)
+* [Job Prep](job-prep/README.md)
+  * [Projects](job-prep/projects.md)
+  * [Interview Questions](job-prep/view.md)
+  * [Coding Questions](job-prep/coding.md)
 
