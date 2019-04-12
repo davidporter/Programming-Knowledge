@@ -1,29 +1,19 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Marketing Plan](marketing-plan.md)
+* [Learning plan](learning-plan.md)
+* [Resources](resources.md)
 * [Technologies](untitled-1/README.md)
   * [WPF](untitled-1/wpf.md)
+  * [Javascript](untitled-1/javascript.md)
   * [Untitled](untitled-1/untitled.md)
-* [Javascript](javascript.md)
-
-## Operations
-
-* [Learning plan](operations/learning-plan.md)
-* [Resources](operations/resources.md)
-* [Marketing Plan](operations/marketing-plan.md)
-* [Untitled](operations/untitled.md)
-
-## Design Patterns
-
-* [Design Patterns](design-patterns/mvvm-wpf/README.md)
-  * [MVVM WPF](design-patterns/mvvm-wpf/mvvm-wpf.md)
-  * [Dependency Injection](design-patterns/mvvm-wpf/dependency-injection.md)
-  * [Command Pattern](design-patterns/mvvm-wpf/command-pattern.md)
-
-## Postface
-
-* [Coding](questions/coding.md)
-* [View](questions/view.md)
-* [Glossary](questions/untitled.md)
-* [People](questions/people.md)
+* [Design Patterns](mvvm-wpf/README.md)
+  * [MVVM WPF](mvvm-wpf/mvvm-wpf.md)
+  * [Dependency Injection](mvvm-wpf/dependency-injection.md)
+  * [Command Pattern](mvvm-wpf/command-pattern.md)
+* [Coding Questions](coding.md)
+* [Interview Questions](view.md)
+* [People](people.md)
+* [Glossary](untitled.md)
 
