@@ -14,7 +14,7 @@
   * [Command Pattern](mvvm-wpf/command-pattern.md)
 * [People](people.md)
 * [Glossary](untitled.md)
-* [Job Prep](job-prep/README.md)
+* [Prep](job-prep/README.md)
   * [Projects](job-prep/projects.md)
   * [Interview Questions](job-prep/view.md)
   * [Coding Questions](job-prep/coding.md)
